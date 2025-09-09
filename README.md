@@ -9,6 +9,8 @@ The repository is to contain two folders, one for LaTeX-related content and the 
 ### Compilation
 To compile any typst file, using the [typst-cli](https://github.com/typst/typst), run the following command in terminal:
 ```
-# Creates `<filename.pdf> in the working directory`
+# Creates `<filename.pdf>` in the working directory
 typst compile <filename.typ>
 ```
+
+> _I learned very early the difference between knowing the name of something and knowing something._ ~ **Richard Feynmann**
